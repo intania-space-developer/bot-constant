@@ -6,22 +6,22 @@
     "TH": {
       "title": "สำคัญมาก!",
       "content": [
-        "ยินดีต้อนรับ! คุณได้เข้ามายังเซิฟเวอร์ที่อยู่ภายใต้การดูแลของ ${platform_name}!\\n",
-        "แต่พวกเรายังไม่รู้จักคุณพอ เนื่องจากคุณยังไม่ได้ยืนยันตัวเอง\\n",
-        "ดังนั้น โปรดยืนยันตัวเองผ่านลิงค์ดังกล่าวเพื่อรับประสบการณ์การใช้งานที่ดีที่สุดจากพวกเรา!\\n",
-        "\\n",
-        "__ลิงค์ยืนยันตัวตน__\\n",
+        "ยินดีต้อนรับ! คุณได้เข้ามายังเซิฟเวอร์ที่อยู่ภายใต้การดูแลของ ${platform_name}!",
+        "แต่พวกเรายังไม่รู้จักคุณพอ เนื่องจากคุณยังไม่ได้ยืนยันตัวเอง",
+        "ดังนั้น โปรดยืนยันตัวเองผ่านลิงค์ดังกล่าวเพื่อรับประสบการณ์การใช้งานที่ดีที่สุดจากพวกเรา!",
+        "",
+        "__ลิงค์ยืนยันตัวตน__",
         "${platform_link}"
       ]
     },
     "EN": {
       "title": "Hey Important!",
       "content": [
-        "Welcome! you have joined discord server under the control of ${platform_name}!.\\n",
-        "But we haven't known you because you haven't verify yourself.\\n",
-        "So, for the best experience please verify yourself by follow link!\\n",
-        "\\n",
-        "__Verification Link__\\n",
+        "Welcome! you have joined discord server under the control of ${platform_name}!.",
+        "But we haven't known you because you haven't verify yourself.",
+        "So, for the best experience please verify yourself by follow link!",
+        "",
+        "__Verification Link__",
         "${platform_link}"
       ]
     }
