@@ -25,5 +25,27 @@
         "${platform_link}"
       ]
     }
+  },
+  "claim-owner-feedback": {
+    "TH": {
+      "title": "ยินดีต้อนรับ!",
+      "content": [
+        "คุณได้เข้ามายังเซิฟเวอร์เพื่อรับสิทธิการเป็นเจ้าของเรียบร้อยแล้ว",
+        "ขั้นตอนต่อไปโปรดใช้ลิงค์ดังกล่าวเพื่อเชิญ ${bot_name} เข้ามายังเซิฟเวอร์",
+        "",
+        "__ลิงค์เชิญบอท__",
+        "${bot_invite_link}"
+      ]
+    },
+    "EN": {
+      "title": "Welcome!",
+      "content": [
+        "You have joined discord sercer to claim server owner!",
+        "Next step please use follow link to invite ${bot_name} to your server!",
+        "",
+        "__Invite Link__",
+        "${bot_invite_link}"
+      ]
+    }
   }
 }
