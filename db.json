@@ -1,11 +1,11 @@
 {
   "greet":{
-    "message": "Hello! I'm bot."
+    "message":"Hello! I'm bot."
   },
-  "non-verified-user": {
-    "TH": {
-      "title": "สำคัญมาก!",
-      "content": [
+  "non-verified-user":{
+    "TH":{
+      "title":"สำคัญมาก!",
+      "content":[
         "ยินดีต้อนรับ! คุณได้เข้ามายังเซิฟเวอร์ที่อยู่ภายใต้การดูแลของ ${platform_name}!",
         "แต่พวกเรายังไม่รู้จักคุณพอ เนื่องจากคุณยังไม่ได้ยืนยันตัวเอง",
         "ดังนั้น โปรดยืนยันตัวเองผ่านลิงค์ดังกล่าวเพื่อรับประสบการณ์การใช้งานที่ดีที่สุดจากพวกเรา!",
@@ -14,9 +14,9 @@
         "${platform_link}"
       ]
     },
-    "EN": {
-      "title": "Hey Important!",
-      "content": [
+    "EN":{
+      "title":"Hey Important!",
+      "content":[
         "Welcome! you have joined discord server under the control of ${platform_name}!.",
         "But we haven't known you because you haven't verify yourself.",
         "So, for the best experience please verify yourself by follow link!",
@@ -26,10 +26,10 @@
       ]
     }
   },
-  "claim-owner-feedback": {
-    "TH": {
-      "title": "ยินดีต้อนรับ!",
-      "content": [
+  "claim-owner-feedback":{
+    "TH":{
+      "title":"ยินดีต้อนรับ!",
+      "content":[
         "คุณได้เข้ามายังเซิฟเวอร์เพื่อรับสิทธิการเป็นเจ้าของเรียบร้อยแล้ว",
         "ขั้นตอนต่อไปโปรดใช้ลิงค์ดังกล่าวเพื่อเชิญ ${bot_name} เข้ามายังเซิฟเวอร์",
         "",
@@ -37,9 +37,9 @@
         "${bot_invite_link}"
       ]
     },
-    "EN": {
-      "title": "Welcome!",
-      "content": [
+    "EN":{
+      "title":"Welcome!",
+      "content":[
         "You have joined discord sercer to claim server owner!",
         "Next step please use follow link to invite ${bot_name} to your server!",
         "",
@@ -48,35 +48,35 @@
       ]
     }
   },
-  "register-guild-complete": {
-    "TH": {
-      "title": "ฉัน ${bot_name} ได้เข้ามาแล้ว!",
-      "content": [
+  "register-guild-complete":{
+    "TH":{
+      "title":"ฉัน ${bot_name} ได้เข้ามาแล้ว!",
+      "content":[
         "คุณได้เชิญ ${bot_name} เข้ามาสำเร็จ",
-        "ขอให้สนุกกับการใช้งาน!",
+        "ขอให้สนุกกับการใช้งาน!"
       ]
     },
-    "EN": {
-      "title": "${bot_name} is here!",
-      "content": [
+    "EN":{
+      "title":"${bot_name} is here!",
+      "content":[
         "You have invited ${bot_name} successful",
-        "Please enjoy!",
+        "Please enjoy!"
       ]
     }
   },
-  "non-verified-owner": {
-    "TH": {
-      "title": "สำคัญมาก!",
-      "content": [
+  "non-verified-owner":{
+    "TH":{
+      "title":"สำคัญมาก!",
+      "content":[
         "คุณได้เชิญ ${bot_name} เข้ามาสำเร็จ แต่เจ้าของเซิฟเวอร์",
         "ยังไม่ได้ยืนยันตัวตนผ่าน ${platform_name}!",
         "โปรดยืนยันตัวตน หลังจากนั้นใช้คำสั่ง `/register_guild`",
         "เพื่อใช้งาน ${bot_name} อย่างเต็มรูปแบบ!"
       ]
     },
-    "EN": {
-      "title": "${bot_name} is here!",
-      "content": [
+    "EN":{
+      "title":"${bot_name} is here!",
+      "content":[
         "You have invited ${bot_name} successful but",
         "server owner isn't verified by ${platform_name}!",
         "Please verify yourself and use `/register_guild`",
