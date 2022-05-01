@@ -47,5 +47,41 @@
         "${bot_invite_link}"
       ]
     }
+  },
+  "register-guild-complete": {
+    "TH": {
+      "title": "ฉัน ${bot_name} ได้เข้ามาแล้ว!",
+      "content": [
+        "คุณได้เชิญ ${bot_name} เข้ามาสำเร็จ",
+        "ขอให้สนุกกับการใช้งาน!",
+      ]
+    },
+    "EN": {
+      "title": "${bot_name} is here!",
+      "content": [
+        "You have invited ${bot_name} successful",
+        "Please enjoy!",
+      ]
+    }
+  },
+  "non-verified-owner": {
+    "TH": {
+      "title": "สำคัญมาก!",
+      "content": [
+        "คุณได้เชิญ ${bot_name} เข้ามาสำเร็จ แต่เจ้าของเซิฟเวอร์",
+        "ยังไม่ได้ยืนยันตัวตนผ่าน ${platform_name}!",
+        "โปรดยืนยันตัวตน หลังจากนั้นใช้คำสั่ง `/register_guild`",
+        "เพื่อใช้งาน ${bot_name} อย่างเต็มรูปแบบ!"
+      ]
+    },
+    "EN": {
+      "title": "${bot_name} is here!",
+      "content": [
+        "You have invited ${bot_name} successful but",
+        "server owner isn't verified by ${platform_name}!",
+        "Please verify yourself and use `/register_guild`",
+        "For the full control of ${bot_name}!"
+      ]
+    }
   }
 }
